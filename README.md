@@ -14,7 +14,7 @@ We propose *VAWI* ([paper](https://arxiv.org/abs/2212.07937)), a visually-augmen
 
 ## Citation
 
-Please cite our paper if you use VAWI in your work:
+Please cite our paper if you use **VAWI** in your work:
 
 ```bibtex
 @article{guo2022visually,
