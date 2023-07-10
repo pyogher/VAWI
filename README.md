@@ -6,7 +6,7 @@ This repository contains the code for our paper ***Visually-augmented Pretrained
 
 We propose *VAWI* ([paper](https://arxiv.org/abs/2212.07937)), a visually-augmented fine-tuning approach applicable to various pre-trained language models (PLMs) and NLP tasks, without the need for retrieved or generated images. To mitigate the lack of visual semantics and commonsense in PLMs, we identify and extract visually-hungry words (VH-words) in the input text using three strategies. Then, we adopt a fixed CLIP text encoder to generate the visually-augmented representations of these VH-words. Finally, the visually-augmented representations will be fused and transformed into the pre-designed visual prompts based on VH-words, which can be inserted into PLMs to enrich the visual semantics in word representations.
 
-![本地图片](./figures/model.png)
+![model_figure](./model.png)
 
 ## News
 
